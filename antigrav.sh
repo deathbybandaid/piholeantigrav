@@ -3,7 +3,7 @@
 
 ## set this
 HOSTIP="192.168.1.99"
-LISTTOCOMPARE="/etc/pihole/list.0.raw.githubusercontent.com.domains"
+LISTTOCOMPARE="~/listdownloaded"
 
 ## Pi-Hole Gravity
 GRAVITY="/etc/pihole/gravity.list"
